@@ -1,11 +1,10 @@
 remote_theme: chrisrhymes/bulma-clean-theme
-title: My first github blog
+title: Frictionless Enterprise
 author: Phil Wainewright
 email: pw@pcxvs.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my first attempt at creating a blog in github and
-  publishing it using Jekyll. Here you will find information
-  about how I did this and what I plan to do next.
+  A framework for thinking about digital transformation developed
+  by trusted business writer and cloud computing expert Phil Wainewright
 
 # social links
 twitter_username: philww # DO NOT include the @ character, or else the build will fail!

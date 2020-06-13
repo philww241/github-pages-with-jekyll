@@ -13,4 +13,9 @@ github_username:  philww241 # DO NOT include the @ character, or else the build 
 
 defaults:
   -
-    show_sidebar: true # set to false to remove sidebar excerpts 
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true # set to false to remove sidebar excerpts 
+

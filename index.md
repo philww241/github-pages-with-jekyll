@@ -1,6 +1,7 @@
 ---
 title: Frictionless Enterprise
-subtitle: A working template for digitally connected business - by Phil Wainewright
+subtitle: A template for digitally connected business 
+- by Phil Wainewright
 layout: page
 ---
 

@@ -1,12 +1,12 @@
 - name: About
-  link: about/
+  link: /about/
 - name: Find out more
   link: 
   dropdown: 
     - name: key concepts
-      link: blog/
+      link: /blog/
     - name: latest content
-      link: content/
+      link: /content/
     - name: podcasts & video
-      link: streaming/
+      link: /streaming/
 

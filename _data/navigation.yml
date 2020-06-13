@@ -1,11 +1,12 @@
 - name: About
-  link: /about/
-- name: More by Phil
+  link: about/
+- name: Find out more
   link: 
   dropdown: 
-    - name: at diginomica
-      link: https://diginomica.com/author/pwainewright
-- name: Contact
-  link: https://pcxvs.com
-- name: Sign Up
-  link: http://eepurl.com/geV4r
+    - name: key concepts
+      link: blog/
+    - name: latest content
+      link: content/
+    - name: podcasts & video
+      link: streaming/
+

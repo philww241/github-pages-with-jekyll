@@ -1,4 +1,11 @@
-# Frictionless Enterprise
+---
+title: Frictionless Enterprise
+subtitle: A framework developed by Phil Wainewright
+layout: page
+hero_image: /img/frictionless-title.png
+---
+
+# What is Frictionless Enterprise?
 
 We live in a connected world. Telecoms, air travel and more than anything else the WorldWide Web of information and cloud computing have collapsed distance and supercharged teamwork in ways that were unimaginable just a decade or two ago.
 

@@ -2,7 +2,7 @@
 title: Frictionless Enterprise
 subtitle: A framework developed by Phil Wainewright
 layout: page
-hero_image: img/frictionless-title.jpg
+hero_image: img/frictionless-title.png
 ---
 
 # What is Frictionless Enterprise?

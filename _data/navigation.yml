@@ -1,0 +1,13 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: More by Phil
+  link: 
+  dropdown: 
+    - name: at diginomica
+      link: https://diginomica.com/author/pwainewright
+- name: Contact
+  link: https://pcxvs.com
+- name: Sign Up
+  link: http://eepurl.com/geV4r

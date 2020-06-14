@@ -1,9 +1,9 @@
---
+---
 layout: page
 title: Podcasts and video on Frictionless Enterprise
 description: Podcasts and video by Phil Wainewright on Frictionless Enterprise and related topics
 hide_hero: true
---
+---
 # Podcasts and video
 
 ## Video - Jon Reed and Phil Wainewright talk Frictionless Enterprise

@@ -6,8 +6,8 @@ description: A blueprint for digitally connected business - by Phil Wainewright
 favicon: favicon.png
 
 # Pagination settings
-paginate: 5
-paginate_path: "blog/page:num"
+# paginate: 5
+# paginate_path: "blog/page:num"
 
 # social links
 twitter_username: philww # DO NOT include the @ character, or else the build will fail!
@@ -20,4 +20,12 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true # set to false to remove sidebar excerpts 
-
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Phil Wainewright"
+      layout: post
+      hide_hero: true
+      show_sidebar: true # set to false to remove sidebar excerpts 

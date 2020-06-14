@@ -2,6 +2,7 @@
 layout: page
 title: Podcasts and video
 description: Podcasts and video by Phil Wainewright on Frictionless Enterprise and related topics
+hide_hero: true
 --
 # Podcasts and video
 

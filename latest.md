@@ -2,6 +2,7 @@
 layout: page
 title: Latest articles by Phil Wainewright
 description: See the latest articles published on diginomica by Phil Wainewright
+hide_hero: true
 ---
 
 # Latest writing by Phil Wainewright

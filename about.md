@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About Frictionless Enterprise and Phil Wainewright
-image: /img/philww.png
+image: img/philww.png
 description: About Frictionless Enterprise, the blueprint for digitally connected business, and its author Phil Wainewright
-hide_hero: true
 ---
 # About Phil Wainewright
 

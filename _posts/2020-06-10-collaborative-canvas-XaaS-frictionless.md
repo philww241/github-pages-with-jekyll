@@ -1,9 +1,12 @@
 ---
-title: "XaaS, digital teamwork and Frictionless Enterprise"
+title: "Collaborative canvas, XaaS and Frictionless Enterprise"
 date: 2020-06-10
 ---
 
-There are two important sub-themes that form an integral part of Frictionless Enterprise. One is the collaborative canvas, which is a framework for organizing the technology and culture of effective digital teamwork across the enterprise. The other is XaaS, which stands for Everything-as-a-Service and which I pronounce 'X-ass'. XaaS is the underlying business model of Frictionless Enterprise. 
+Two important sub-themes form an integral part of Frictionless Enterprise: 
+
++ Collaborative canvas, a framework for organizing the technology and culture of effective digital teamwork across the enterprise. 
++ XaaS (pronounce 'X-ass'), an acronym for Everything-as-a-Service. XaaS is the underlying business model of Frictionless Enterprise. 
 
 Here are some articles where you can start reading about these core themes and how they fit together: 
 

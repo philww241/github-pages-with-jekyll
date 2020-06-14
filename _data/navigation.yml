@@ -3,10 +3,10 @@
 - name: Find out more
   link: 
   dropdown: 
-    - name: key concepts
+    - name: Key concepts
       link: /blog
-    - name: latest content
+    - name: Latest content
       link: /latest
-    - name: podcasts & video
+    - name: Podcasts & video
       link: /streaming
 

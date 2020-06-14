@@ -27,3 +27,5 @@ defaults:
     values:
       author: "Phil Wainewright"
       show_sidebar: true # set to false to remove sidebar excerpts 
+      hide_share_buttons: true # set to false to reveal social share buttons
+      

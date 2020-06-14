@@ -11,4 +11,4 @@ Jon Reed and Phil Wainewright recorded this 12-minute video in summer 2017 to di
 
 + [Frictionless enterprise, the video - six quick takeaways](https://diginomica.com/frictionless-enterprise-video-six-quick-takeaways)
 
-[Jon Reed and Phil Wainewright talk Frictionless Enterprise](http://img.youtube.com/vi/dsysc2_rygg/0.jpg)](http://www.youtube.com/watch?v=dsysc2_rygg)
+[![Jon Reed and Phil Wainewright talk Frictionless Enterprise](http://img.youtube.com/vi/dsysc2_rygg/0.jpg)](http://www.youtube.com/watch?v=dsysc2_rygg)

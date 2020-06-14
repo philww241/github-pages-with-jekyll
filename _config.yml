@@ -26,6 +26,4 @@ defaults:
       type: "posts"
     values:
       author: "Phil Wainewright"
-      layout: post
-      hide_hero: true
       show_sidebar: true # set to false to remove sidebar excerpts 

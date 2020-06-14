@@ -19,6 +19,7 @@ defaults:
       path: ""
       type: "pages"
     values:
+      hide_hero: true
       show_sidebar: true # set to false to remove sidebar excerpts 
   -
     scope:

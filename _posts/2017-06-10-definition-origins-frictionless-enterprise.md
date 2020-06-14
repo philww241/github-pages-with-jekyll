@@ -1,6 +1,6 @@
 ---
 title: "Definition and origins of Frictionless Enterprise"
-date: 2020-06-11
+date: 2017-06-10
 ---
 
 Here is a definition of Frictionless Enterprise first published in May 2016: 
